@@ -1,0 +1,5 @@
+Django==2.0.5
+tensorflow==1.8.0
+requests==2.18.4
+numpy==1.14.3
+Pillow==5.1.0
