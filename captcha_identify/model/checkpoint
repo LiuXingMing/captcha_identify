@@ -1,0 +1,5 @@
+model_checkpoint_path: "crack_capcha.model-20000"
+all_model_checkpoint_paths: "crack_capcha.model-5000"
+all_model_checkpoint_paths: "crack_capcha.model-10000"
+all_model_checkpoint_paths: "crack_capcha.model-15000"
+all_model_checkpoint_paths: "crack_capcha.model-20000"
